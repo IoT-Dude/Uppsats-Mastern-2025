@@ -7,6 +7,6 @@ Avancerad nivå
 VT 2025
 
 
-Patrik Ackell
+### Patrik Ackell
 
 Här läggs min uppsats plus kompletterande material (bilagor med data och kod och Ds-serien)
